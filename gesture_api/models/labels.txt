@@ -1,0 +1,10 @@
+Hello
+Yes
+No
+Thank You
+Please
+Sorry
+Good Morning
+Good Night
+How Are You?
+I Love You
